@@ -1,6 +1,3 @@
-# Curso de _Git_&_GitHub_
+# Primer README 
 
-Hola! 
-
-Hola... de nuevo...
-Holaaaa
+Este curso es eterno... D: 
